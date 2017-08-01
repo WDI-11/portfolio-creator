@@ -32,10 +32,13 @@ This application has:
 ![build your portfolio screen](https://user-images.githubusercontent.com/10038637/28836100-a6f9b1ac-76b5-11e7-8482-a7ce58ec3678.png)
 
 #### Final Portfolio Wireframe
+![final portfolio screen](https://user-images.githubusercontent.com/10038637/28836167-e0439acc-76b5-11e7-8ceb-574abf3a6794.png)
 
 #### Login Screen Wireframe
+![login screen](https://user-images.githubusercontent.com/10038637/28836195-fdbd7b7c-76b5-11e7-8825-7752495afb4b.png)
 
 #### Portfolio Dashboard
+![portfolio dashboard](https://user-images.githubusercontent.com/10038637/28836219-15332824-76b6-11e7-86bf-b8b51dc686e3.png)
 
 #### Portfolio List Screen
 
