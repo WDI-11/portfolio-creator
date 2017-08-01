@@ -27,7 +27,7 @@ This application has:
 
 <details>
 <summary>Create Account Wireframe</summary>
-https://files.slack.com/files-pri/T0351JZQ0-F6GNDV5DL/account_create.png
+![account create](https://user-images.githubusercontent.com/10038637/28835805-a990d6bc-76b4-11e7-8154-e03b812b201e.png)
 </details>
 
 <details>
