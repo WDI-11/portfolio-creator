@@ -29,6 +29,7 @@ This application has:
 ![account create](https://user-images.githubusercontent.com/10038637/28835805-a990d6bc-76b4-11e7-8154-e03b812b201e.png)
 
 #### Build Your Portfolio Wireframe
+![build your portfolio screen](https://user-images.githubusercontent.com/10038637/28836100-a6f9b1ac-76b5-11e7-8482-a7ce58ec3678.png)
 
 #### Final Portfolio Wireframe
 
