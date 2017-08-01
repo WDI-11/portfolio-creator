@@ -25,39 +25,12 @@ This application has:
 
 ### Wireframe and ERD images
 
+#### Create Account Wireframe 
 ![account create](https://user-images.githubusercontent.com/10038637/28835805-a990d6bc-76b4-11e7-8154-e03b812b201e.png)
-<details>
-<summary>Create Account Wireframe</summary>
-![account create](https://user-images.githubusercontent.com/10038637/28835805-a990d6bc-76b4-11e7-8154-e03b812b201e.png)
-</details>
-
-<details>
-<summary>Build Your Portfolio Wireframe</summary>
-
-</details>
-
-<details>
-<summary>Final Portfolio Wireframe</summary>
-
-</details>
-
-<details>
-<summary>Login Screen Wireframe</summary>
-
-</details>
-
-<details>
-<summary>Portfolio Dashboard</summary>
-
-</details>
-
-<details>
-<summary>Portfolio List Screen</summary>
-
-</details>
-
-<details>
-<summary>ERDs</summary>
-
-</details>
+Build Your Portfolio Wireframe
+Final Portfolio Wireframe
+Login Screen Wireframe
+Portfolio Dashboard
+Portfolio List Screen
+ERDs
 
