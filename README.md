@@ -27,10 +27,16 @@ This application has:
 
 #### Create Account Wireframe 
 ![account create](https://user-images.githubusercontent.com/10038637/28835805-a990d6bc-76b4-11e7-8154-e03b812b201e.png)
-Build Your Portfolio Wireframe
-Final Portfolio Wireframe
-Login Screen Wireframe
-Portfolio Dashboard
-Portfolio List Screen
-ERDs
+
+#### Build Your Portfolio Wireframe
+
+#### Final Portfolio Wireframe
+
+#### Login Screen Wireframe
+
+#### Portfolio Dashboard
+
+#### Portfolio List Screen
+
+#### ERDs
 
