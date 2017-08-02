@@ -9,6 +9,13 @@ Portfolio Creator is an online application for those wanting to show off their l
 
 - [Trello Board](https://trello.com/b/DLemEGpQ/wdi-11-project-2)
 
+### Project Members
+
+* Ashleigh Carroll
+* Joey Hurley
+* Sean Gilmore
+* Jonathan Watson
+
 ### Technical Specifications
 
 This application has:
